@@ -1,0 +1,13 @@
+
+[Unit]
+Description=Raspberry Pi fan controller
+
+[Service]
+Type=forking
+ExecStart=/usr/local/bin/pi-fan
+PIDFile=/run/pi-fan.pid
+Restart=always
+
+[Install]
+WantedBy=basic.target
+
