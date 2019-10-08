@@ -11,7 +11,7 @@ In general terms you need to go through these steps to control your fan with pi-
 You can find more detailed information about each of these steps via these links:
 * [**Electrically interfacing your fan**](docs/electrical_interface.md)
 * [**Compiling pi-fan from source**](docs/compiling_pi-fan.md)
-* [**Installing pi-fan and hooking into systemd**](systemd_install.md)
+* [**Installing pi-fan and hooking into systemd**](docs/systemd_install.md)
 
 
 # Some high-lights
