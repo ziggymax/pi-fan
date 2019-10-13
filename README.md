@@ -1,5 +1,5 @@
 # Pi-fan introduction
-Pi-fan is a small server (written in C) that can control a fan on a Raspberry Pi based on CPU temperature. For now I have only tested if this works with a Raspberry Pi 4, but it should work on all Pi's with pin 12 (BC pin 18 with PWM channel 0) available. Pi-fan works by controlling a fan with a standard 4-pin PWM (25KHz) input. It uses hardware PWM and hence uses very few cpu cycles, and generally has a very small foot print. Pi-fan uses [Mike McCauley's excellent little library bcm2835](https://www.airspayce.com/mikem/bcm2835).
+Pi-fan is a small server (written in C) that can control a fan on a Raspberry Pi based on CPU temperature. For now I have only tested if this works with a Raspberry Pi 4, but it should work on all Pi's with pin 12 (BC pin 18 with PWM channel 0) available. Pi-fan works by controlling a fan with a standard 3- or 4-pin PWM (25KHz) input. It uses hardware PWM and hence uses very few cpu cycles, and generally has a very small foot print. Pi-fan uses [Mike McCauley's excellent little library bcm2835](https://www.airspayce.com/mikem/bcm2835).
 
 
 # Getting your fan up to speed
