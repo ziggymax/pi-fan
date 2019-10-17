@@ -33,7 +33,7 @@ First find pid (process id) of pi-fan:
 # ps -e | grep pi-fan
 16244 ?        00:00:00 pi-fan
 ```
-Okay, so pid is 16244, send send a SIGHUP (signal 1 ) to pi-fan:
+Okay, so pid is 16244, send a SIGHUP (signal 1 ) to pi-fan:
 ```
 # kill -1 16244
 ```
