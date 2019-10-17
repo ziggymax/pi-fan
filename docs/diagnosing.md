@@ -25,7 +25,7 @@ Apart from showing what pi-fan sees and does, it's also a great way to experimen
 
 Note that you should run pi-fan with root permissions, otherwise it is unable to use the GPIO pins.
 
-## Sending a signal (SIGHUP )to pi-fan
+## Sending a signal (SIGHUP) to pi-fan
 If you already have a pi-fan instance running (it doesn't matter if you have started it manually or via systemd), you can make it do a couple of "ramp-the-fan-up-and-down-again" cycles by sending it a signal. It provides a simple and audible feedback mechanism that shows that pi-fan is alive and in control of the fan.
 
 First find pid (process id) of pi-fan:
