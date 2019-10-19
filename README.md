@@ -15,10 +15,10 @@ In general terms you need to go through these steps to control your fan with pi-
 3. Get a compiled pi-fan executable installed on your Pi and hooked into systemd.
 
 You can find more detailed information about each of these steps via these links:
-* [**Electrically interfacing your fan**](docs/electrical_interface.md)
-* [**Procuring a pi-fan executable**](docs/compiling_pi-fan.md)
-* [**Installing and configuring pi-fan and hooking into systemd**](docs/systemd_install.md)
-* [**Diagnosing/checking your pi-fan installation**](docs/diagnosing.md)
+* [Electrically interfacing your fan](docs/electrical_interface.md)
+* [Procuring a pi-fan executable](docs/compiling_pi-fan.md) (also see [Pre-built executable binaries](prebuilt/binaries.md))
+* [Installing and configuring pi-fan and hooking into systemd](docs/systemd_install.md)
+* [Diagnosing/checking your pi-fan installation](docs/diagnosing.md)
 
 
 # Flexible/configurable
