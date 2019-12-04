@@ -14,7 +14,7 @@
    viewBox="0 0 175.75893 158.37202"
    version="1.1"
    id="svg1252"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="myfansetup.svg">
   <defs
      id="defs1246">
@@ -284,21 +284,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="470.01609"
-     inkscape:cy="330.47013"
+     inkscape:zoom="3.959798"
+     inkscape:cx="505.27972"
+     inkscape:cy="270.04377"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1163"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="360"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="false" />
   <metadata
      id="metadata1249">
     <rdf:RDF>
@@ -322,14 +323,15 @@
        id="rect1402"
        width="175.75893"
        height="158.37202"
-       x="-3.0238097"
-       y="-3.4526448" />
+       x="21.284784"
+       y="11.004945" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-12.725346,-12.121415)">
+     transform="translate(-12.725346,-12.121415)"
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot1244"
@@ -1318,18 +1320,6 @@
              style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46666622px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43932825;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.9905213">GND</tspan></text>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.69974756px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23492247"
-       x="136.55113"
-       y="96.005028"
-       id="text21503-4"
-       transform="scale(1.0000393,0.9999607)"><tspan
-         sodipodi:role="line"
-         id="tspan21501-3"
-         x="136.55113"
-         y="96.005028"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.69974756px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.23492247">5V</tspan></text>
     <path
        style="fill:none;stroke:#001fff;stroke-width:0.35499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11582)"
        d="m 38.553571,48.40506 h 64.013679 v 40.235565 c 14.87695,0 32.15933,0 47.03628,0 V 73.100407"
@@ -2560,7 +2550,7 @@
        transform="scale(-1)" />
     <path
        style="fill:none;stroke:#ff001b;stroke-width:0.35499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94895833;marker-end:url(#marker30504)"
-       d="m 140.56782,15.752598 h 44.8295 v 76.871646 h -40.25446 v 4.753455"
+       d="m 140.56782,15.752598 h 44.8295 v 76.871646 h -32.84613 v 4.753455"
        id="path29835"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -2575,16 +2565,20 @@
        d="M 130.56116,96.581263 Z"
        id="path30974"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 150.74001,100.42326 c 4.00904,-4.009041 4.00904,-4.009041 4.00904,-4.009041"
-       id="path31333"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 154.74905,100.42326 c -4.00904,-4.00904 -4.00904,-4.00904 -4.00904,-4.00904"
-       id="path31333-3"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g1763"
+       transform="translate(-7.6776414,-0.25985862)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path31333"
+         d="m 150.74001,100.42326 c 4.00904,-4.009041 4.00904,-4.009041 4.00904,-4.009041"
+         style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path31333-3"
+         d="m 154.74905,100.42326 c -4.00904,-4.00904 -4.00904,-4.00904 -4.00904,-4.00904"
+         style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.69974756px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23492247"
@@ -2597,5 +2591,28 @@
          x="160.96367"
          y="106.47234"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.69974756px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.23492247">PWM</tspan></text>
+    <g
+       id="g5018"
+       transform="translate(9.3544333,-0.06681738)">
+      <rect
+         y="90.085648"
+         x="139.64203"
+         height="4.3467264"
+         width="7.0161834"
+         id="rect402"
+         style="fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.2838774;stroke-miterlimit:4;stroke-dasharray:2.27101935, 0.28387742;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0000393,0.9999607)"
+         id="text21503-4"
+         y="94.086555"
+         x="139.63742"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.69974756px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23492247"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.69974756px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.23492247"
+           y="94.086555"
+           x="139.63742"
+           id="tspan21501-3"
+           sodipodi:role="line">5V</tspan></text>
+    </g>
   </g>
 </svg>
