@@ -13,7 +13,7 @@ The gpio pins on the RP4 is laid out as shown on the figure below. The labels (B
 ![raspi gpio](images/rpi_simplified_with_gpio.svg "Raspberry Pi gpio")
 
 ## My setup
-I have interfaced my Noctua fan (40x10mm 5V fan, NF-A4x10) using one of these logic level converters ([Sparkfun BOB-12009](https://www.sparkfun.com/products/12009)). It translates the fan's 5V level to the Pi's 3.3V. Similar units can be bought many places (Adafruit, Ebay, AliExpress etc. - just Google for 'logic level converter'). My reason for choosing this solution is that it is simple, more or less fool proof and I happened to have one laying around. The Noctua is rated at 0.35W and runs fine directly of the Pi's 5V supply, with a bit of room to spare for additional units sipping power from the USB ports. Note that the tacho output from the Noctua fan (yellow wire) is not used.
+I have interfaced my Noctua fan (40x10mm 5V fan, NF-A4x10) using one of these logic level converters ([Sparkfun BOB-12009](https://www.sparkfun.com/products/12009)). It translates the fan's 5V level to the Pi's 3.3V. Similar units can be bought many places (Adafruit, Ebay, AliExpress etc. - just Google for 'logic level converter'). My reason for choosing this solution is that it is simple, more or less fool proof and I happened to have one laying around. The Noctua is rated at 0.35W and runs fine directly of the Pi's 5V supply, with a bit of room to spare for additional units sipping power from the USB ports. Note that the tacho output from the Noctua fan (green wire) is not used.
 
 ![Personal setup](images/myfansetup.svg "My Raspberry Pi 4 fan setup")
 
