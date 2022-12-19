@@ -38,4 +38,4 @@ Okay, so pid is 16244, send a SIGHUP (signal 1 ) to pi-fan:
 # kill -1 16244
 ```
 
-If you you're close enough to your Pi to see and hear it, you'll hear that pi-fan runs the fan speed form 0% up 100% and back again a few times. Once it's done, it will resume normal operation.
+If you you're close enough to your Pi to see and hear it, you'll hear that pi-fan runs the fan speed from 0% up 100% and back again a few times. Once it's done, it will resume normal operation.
