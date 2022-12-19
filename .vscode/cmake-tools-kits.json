@@ -1,0 +1,9 @@
+[
+    {
+      "name": "GCC 12.2.0 aarch64-rpi3-linux-gnu",
+      "compilers": {
+        "C": "/opt/pi-cross-compile/aarch64-rpi3-linux-gnu/bin/aarch64-rpi3-linux-gnu-gcc",
+        "CXX": "/opt/pi-cross-compile/aarch64-rpi3-linux-gnu/bin/aarch64-rpi3-linux-gnu-g++"
+    }
+  }
+]
