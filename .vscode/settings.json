@@ -1,6 +1,6 @@
 {    
     "cmake.configureSettings" : {
-        "CMAKE_TOOLCHAIN_FILE" : "/workspaces/pi-cross-compile/raspi4.cmake",
+        "CMAKE_TOOLCHAIN_FILE" : "../raspi4.cmake",
         "CMAKE_VERBOSE_MAKEFILE" : "ON",
         "CMAKE_BUILD_TYPE" : "Release"
     }
