@@ -23,7 +23,9 @@
 				"ms-vscode.cpptools-extension-pack",
 				"yzhang.markdown-all-in-one",
 				"redhat.vscode-yaml",
-				"donjayamanne.githistory"
+				"donjayamanne.githistory",
+				"mhutchie.git-graph",
+				"ms-azuretools.vscode-docker"
 			]
     	}
   }
